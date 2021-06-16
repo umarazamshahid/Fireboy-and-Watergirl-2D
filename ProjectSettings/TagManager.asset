@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - Fireboy
+  - Watergirl
+  - FireDoor
+  - WaterDoor
+  - Slider1
+  - Slider2
+  - Crate
+  - Lever
+  - ButtonForSlider1
+  - Lever2
+  - ButtonForSlider2
+  - Firepit
+  - FireDiamond
+  - Waterpit
+  - WaterDiamond
+  - Goopit
+  - Ladder
+  - Lever3
+  - Slider3
+  - ButtonForSlider3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
